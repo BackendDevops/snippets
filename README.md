@@ -1,0 +1,2 @@
+# snippets
+Basic Js Snippets
